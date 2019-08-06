@@ -3,6 +3,6 @@
 Problem 1
 Print "Hello World"
 
-Probelm 2
+Problem 2
 Create a variable named schoolName.
 Print "My school's name is schoolName"
